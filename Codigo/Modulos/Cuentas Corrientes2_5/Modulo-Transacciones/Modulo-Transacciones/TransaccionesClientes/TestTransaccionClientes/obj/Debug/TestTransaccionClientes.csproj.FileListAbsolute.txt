@@ -1,0 +1,2 @@
+C:\Users\josea\OneDrive\Desktop\segunda serie\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\Modulo-Transacciones\Modulo-Transacciones\TransaccionesClientes\TestTransaccionClientes\obj\Debug\TestTransaccionClientes.csproj.AssemblyReference.cache
+C:\Users\josea\OneDrive\Desktop\segunda serie\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\Modulo-Transacciones\Modulo-Transacciones\TransaccionesClientes\TestTransaccionClientes\obj\Debug\TestTransaccionClientes.csproj.CoreCompileInputs.cache

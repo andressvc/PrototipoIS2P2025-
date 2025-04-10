@@ -1,0 +1,6 @@
+C:\Users\josea\OneDrive\Desktop\segunda serie\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\CuentasPorPagar\Capa_Modelo_CPP\bin\Debug\Capa_Modelo_CPP.dll
+C:\Users\josea\OneDrive\Desktop\segunda serie\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\CuentasPorPagar\Capa_Modelo_CPP\bin\Debug\Capa_Modelo_CPP.pdb
+C:\Users\josea\OneDrive\Desktop\segunda serie\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\CuentasPorPagar\Capa_Modelo_CPP\obj\Debug\Capa_Modelo_CPP.csproj.AssemblyReference.cache
+C:\Users\josea\OneDrive\Desktop\segunda serie\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\CuentasPorPagar\Capa_Modelo_CPP\obj\Debug\Capa_Modelo_CPP.csproj.CoreCompileInputs.cache
+C:\Users\josea\OneDrive\Desktop\segunda serie\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\CuentasPorPagar\Capa_Modelo_CPP\obj\Debug\Capa_Modelo_CPP.dll
+C:\Users\josea\OneDrive\Desktop\segunda serie\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\CuentasPorPagar\Capa_Modelo_CPP\obj\Debug\Capa_Modelo_CPP.pdb

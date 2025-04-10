@@ -1,0 +1,5 @@
+C:\Users\josea\OneDrive\Desktop\segunda serie\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Controlador_Contabilidad\bin\Debug\Capa_Controlador_Contabilidad.dll
+C:\Users\josea\OneDrive\Desktop\segunda serie\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Controlador_Contabilidad\bin\Debug\Capa_Controlador_Contabilidad.pdb
+C:\Users\josea\OneDrive\Desktop\segunda serie\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Controlador_Contabilidad\obj\Debug\Capa_Controlador_Contabilidad.csproj.CoreCompileInputs.cache
+C:\Users\josea\OneDrive\Desktop\segunda serie\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Controlador_Contabilidad\obj\Debug\Capa_Controlador_Contabilidad.dll
+C:\Users\josea\OneDrive\Desktop\segunda serie\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Controlador_Contabilidad\obj\Debug\Capa_Controlador_Contabilidad.pdb
